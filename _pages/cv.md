@@ -1,2 +1,8 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+---
 
-[CV](http://xiaoxizhao.github.io/files/CV_XiaoxiZhao_Dec2019.pdf)
+[Curriculum Vitae in PDF](http://xiaoxizhao.github.io/files/CV_XiaoxiZhao_Dec2019.pdf)
