@@ -27,7 +27,7 @@ from China"
   
 ## Publications
 
-B. Min and X. Zhao (2019). Measure Country-Level Socio-Economic Indicators with Streaming News: An Empirical Study. Forthcoming EMNLP-IJCNLP 2019
+B. Min and X. Zhao (2019). Measure Country-Level Socio-Economic Indicators with Streaming News: An Empirical Study. 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)
 
 Global Hospital Management Survey - China, Management in Healthcare Report, 2015
 
