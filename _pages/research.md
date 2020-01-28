@@ -21,7 +21,7 @@ Bachman, Christopher Louis, Meg Comeau, Randall P. Ellis, Allyson Baughman
 * "Higher Medicare Spending on Imaging and Lab Services After Physician Practice Vertical Integration", with Michael R. Richards, Cheryl Damberg, Christopher M. Whaley
 * "Health Care Demand Elasticity by Types of Cost Sharing", with Chenlu Song
 * "Behavioral Health Diagnoses and Medical Complexity in Pediatric Acute Hospital Admissions", with Sara S. Bachman, Christopher Louis, Meg Comeau, Randall P. Ellis, and Yiyang Yuan (Submitted)
-* "Heterogeneity of Income Effect on Beneffit Distribution of Social Health Insurance: Evidence
+* "Heterogeneity of Income Effect on Benefit Distribution of Social Health Insurance: Evidence
 from China"
 
   
