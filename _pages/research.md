@@ -14,7 +14,8 @@ author_profile: true
 * "Care Coordination across Firm Boundaries: Assessing the Role of Provider Organization", with Leila Agha and Keith Ericson
 * "Delay in Mental Health Treatment for Children with Medical Complexity ", with Sara S.
 Bachman, Christopher Louis, Meg Comeau, Randall P. Ellis, Allyson Baughman
-
+* "Time trend of socio-economic measurement and their correlation for COVID-19"
+[Key figures](http://xiaoxizhao.github.io/files/Confirmed_20200407.gif)
 
 ## Working Papers
 
