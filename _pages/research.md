@@ -14,7 +14,7 @@ author_profile: true
 * "Care Coordination across Firm Boundaries: Assessing the Role of Provider Organization", with Leila Agha and Keith Ericson
 * "Delay in Mental Health Treatment for Children with Medical Complexity ", with Sara S.
 Bachman, Christopher Louis, Meg Comeau, Randall P. Ellis, Allyson Baughman
-* "Time trend of socio-economic measurement and their correlation for COVID-19"  
+* "Time trend and correlation of public health and socio-economic measurement for COVID-19"  
    Here are some key figures by county: 
    [Confirmed cases](http://xiaoxizhao.github.io/files/Confirmed_20200407.gif),
    [Confirmed cases per thousand population](http://xiaoxizhao.github.io/files/ConfirmedPopk_20200407.gif), and
