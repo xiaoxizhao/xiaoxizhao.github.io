@@ -9,7 +9,7 @@ author_profile: true
 
 ## Work in progress
 
-* "Estimating Margins with Rate-of-Return Regulation: Effect of Medical Loss Ratio Regulation"
+* "The Effect of Medical Loss Ratio Regulation on Insurers' Pricing"
 * "Participation in Health Insurance Exchange Marketplaces"
 * "Care Coordination across Firm Boundaries: Assessing the Role of Provider Organization", with Leila Agha and Keith Ericson
 * "Delay in Mental Health Treatment for Children with Medical Complexity ", with Sara S.
