@@ -17,7 +17,7 @@ Bachman, Christopher Louis, Meg Comeau, Randall P. Ellis, Allyson Baughman
 * "Time trend of socio-economic measurement and their correlation for COVID-19"  
    Here are some key figures by county: 
    [Confirmed cases](http://xiaoxizhao.github.io/files/Confirmed_20200407.gif),
-   [Confirmed cases per thousand population](http://xiaoxizhao.github.io/files/ConfirmedPopk_20200407.gif)
+   [Confirmed cases per thousand population](http://xiaoxizhao.github.io/files/ConfirmedPopk_20200407.gif), and
    [Confirmed cases per ICU bed](http://xiaoxizhao.github.io/files/Npat_per_ICU_bed_20200407.gif)
 
 ## Working Papers
