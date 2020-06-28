@@ -12,8 +12,7 @@ author_profile: true
 * "The Effect of Medical Loss Ratio Regulation on Insurers' Pricing"
 * "Participation in Health Insurance Exchange Marketplaces"
 * "Care Coordination across Firm Boundaries: Assessing the Role of Provider Organization", with Leila Agha and Keith Ericson
-* "Delay in Mental Health Treatment for Children with Medical Complexity ", with Sara S.
-Bachman, Christopher Louis, Meg Comeau, Randall P. Ellis, Allyson Baughman
+* "The Effect of Vertical Integration on Physicians' Referral Pattern for Surgical Procedures", with Christopher M. Whaley
 * "Time trend and correlation of public health and socio-economic measurement for COVID-19"  
    Here are some key figures by county: 
    [Confirmed cases](http://xiaoxizhao.github.io/files/Confirmed_20200407.gif),
@@ -24,7 +23,7 @@ Bachman, Christopher Louis, Meg Comeau, Randall P. Ellis, Allyson Baughman
 
 * "Higher Medicare Spending on Imaging and Lab Services After Physician Practice Vertical Integration", with Michael R. Richards, Cheryl Damberg, Christopher M. Whaley
 * "Health Care Demand Elasticity by Types of Cost Sharing", with Chenlu Song
-* "Behavioral Health Diagnoses and Medical Complexity in Pediatric Acute Hospital Admissions", with Sara S. Bachman, Christopher Louis, Meg Comeau, Randall P. Ellis, and Yiyang Yuan (Submitted)
+* "Delay in Mental Health Treatment for Children with Medical Complexity", with Christopher J. Louis, Sara S. Bachman, Meg Comeau, Allyson Baughman, Sean Lynch, Yiyang Yuan, Randall P. Ellis
 * "Heterogeneity of Income Effect on Benefit Distribution of Social Health Insurance: Evidence
 from China"
 
