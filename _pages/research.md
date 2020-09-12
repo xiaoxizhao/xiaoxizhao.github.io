@@ -13,11 +13,11 @@ author_profile: true
 * "Participation in Health Insurance Exchange Marketplaces"
 * "Care Coordination across Firm Boundaries: Assessing the Role of Provider Organization", with Leila Agha and Keith Ericson
 * "The Effect of Vertical Integration on Physicians' Referral Pattern for Surgical Procedures", with Christopher M. Whaley
-* "Time trend and correlation of public health and socio-economic measurement for COVID-19"  
-   Here are some figures by county: 
-   [Confirmed cases](http://xiaoxizhao.github.io/files/Confirmed_20200407.gif),
-   [Confirmed cases per thousand population](http://xiaoxizhao.github.io/files/ConfirmedPopk_20200407.gif), and
-   [Confirmed cases per ICU bed](http://xiaoxizhao.github.io/files/Npat_per_ICU_bed_20200407.gif)
+%* "Time trend and correlation of public health and socio-economic measurement for COVID-19"  
+%   Here are some figures by county: 
+%   [Confirmed cases](http://xiaoxizhao.github.io/files/Confirmed_20200407.gif),
+%   [Confirmed cases per thousand population](http://xiaoxizhao.github.io/files/ConfirmedPopk_20200407.gif), and
+%   [Confirmed cases per ICU bed](http://xiaoxizhao.github.io/files/Npat_per_ICU_bed_20200407.gif)
 
 ## Working Papers
 
