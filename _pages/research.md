@@ -7,25 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-## Work in progress
-
-* "The Effect of Medical Loss Ratio Regulation on Insurers' Pricing"
-* "Participation in Health Insurance Exchange Marketplaces"
-* "Care Coordination across Firm Boundaries: Assessing the Role of Provider Organization", with Leila Agha and Keith Ericson
-* "The Effect of Vertical Integration on Physicians' Referral Pattern for Surgical Procedures", with Christopher M. Whaley
-%* "Time trend and correlation of public health and socio-economic measurement for COVID-19"  
-%   Here are some figures by county: 
-%   [Confirmed cases](http://xiaoxizhao.github.io/files/Confirmed_20200407.gif),
-%   [Confirmed cases per thousand population](http://xiaoxizhao.github.io/files/ConfirmedPopk_20200407.gif), and
-%   [Confirmed cases per ICU bed](http://xiaoxizhao.github.io/files/Npat_per_ICU_bed_20200407.gif)
-
 ## Working Papers
+* "The Effect of Medical Loss Ratio Regulation on Insurers' Pricing" (Job Market Paper)
+* "Higher Medicare Spending on Imaging and Lab Services After Physician Practice Vertical Integration," with Michael Richards, Cheryl Damberg, Christopher M. Whaley (under review)
+* "The Extent of Externalities from Medicare Payment Policy," with Alice Chen, Michael R. Richards, Christopher M. Whaley (under review) [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-3.html)
+* "Health Care Demand Elasticity by Types of Cost Sharing," with Chenlu Song
+* "Delay in Mental Health Treatment for Children with Medical Complexity," with Christopher J.Louis, Sara S. Bachman, Meg Comeau, Allyson Baughman, Sean Lynch, Yiyang Yuan, Randall P. Ellis (under review)
 
-* "Higher Medicare Spending on Imaging and Lab Services After Physician Practice Vertical Integration", with Michael R. Richards, Cheryl Damberg, Christopher M. Whaley
-* "Health Care Demand Elasticity by Types of Cost Sharing", with Chenlu Song
-* "Delay in Mental Health Treatment for Children with Medical Complexity", with Christopher J. Louis, Sara S. Bachman, Meg Comeau, Allyson Baughman, Sean Lynch, Yiyang Yuan, Randall P. Ellis
-* "Heterogeneity of Income Effect on Benefit Distribution of Social Health Insurance: Evidence
-from China"
+## Work in progress
+* "Care Coordination across Firm Boundaries: Assessing the Role of Provider Organization," with Leila Agha and Keith Ericson
+* "The Effect of Vertical Integration on Physicians' Referral Pattern for Surgical Procedures," with Christopher M. Whaley
+* "Participation in Health Insurance Exchange Marketplaces"
+* "Heterogeneity of Income Eect on Benet Distribution of Social Health Insurance: Evidence from China"
+
 
   
 ## Publications
