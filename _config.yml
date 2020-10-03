@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaoxi Zhao"
+title                    : "Home" #"Xiaoxi Zhao"
 title_separator          : "-"
 name                     : &name "Xiaoxi Zhao"
 description              : &description "Ph.D. Candidate in Economics"
