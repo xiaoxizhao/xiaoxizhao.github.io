@@ -10,10 +10,10 @@ author_profile: true
 ## Working Papers
 * "The Effect of Medical Loss Ratio Regulation on Insurers' Pricing," October, 2020. (Job Market Paper)
 * "Higher Medicare Spending on Imaging and Lab Services After Physician Practice Vertical Integration," with Michael Richards, Cheryl Damberg, Christopher M. Whaley, June 2020. (R&R Health Affairs)
-* "The Extent of Externalities from Medicare Payment Policy," with Alice Chen, Michael R. Richards, Christopher M. Whaley (under review), August 2020. [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-3.html)
+* "The Extent of Externalities from Medicare Payment Policy," with Alice Chen, Michael R. Richards, Christopher M. Whaley, August 2020. (under review) [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-3.html)
 * "Raising the Stakes - Physician Facility Investments and Provider Agency," with Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, September 2020. [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-4.html)
 * "[Health Care Demand Elasticity by Types of Cost Sharing](https://drive.google.com/file/d/1VIUUZ4iqUtm8VmoAACkQi6k3vHw7C-EA/view)," with Chenlu Song, November 2020.
-* "Delay in Mental Health Treatment for Children with Medical Complexity," with Christopher J.Louis, Sara S. Bachman, Meg Comeau, Allyson Baughman, Sean Lynch, Yiyang Yuan, Randall P. Ellis (under review), May 2020.
+* "Delay in Mental Health Treatment for Children with Medical Complexity," with Christopher J.Louis, Sara S. Bachman, Meg Comeau, Allyson Baughman, Sean Lynch, Yiyang Yuan, Randall P. Ellis, May 2020. (under review)
 
 ## Work in progress
 * "Care Coordination across Firm Boundaries: Assessing the Role of Provider Organization," with Leila Agha and Keith Ericson
