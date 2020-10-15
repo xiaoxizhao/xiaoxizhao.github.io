@@ -10,7 +10,7 @@ author_profile: true
 ## Working Papers
 * "The Effect of Medical Loss Ratio Regulation on Insurer Pricing," October, 2020. (Job Market Paper)
 
-###Abstract  
+#Abstract  
 
 The Affordable Care Act Medical Loss Ratio (MLR) regulation limits insurers' profit by setting a minimum requirement on the ratio of medical spending to premium revenue. However, this regulation may undermine the incentives for insurers to bargain for lower prices when negotiating prices with health care providers.  In this paper, I build a bargaining model of how the MLR constraint affects price negotiation between insurers and providers. This model illustrates the insurer trade-off between lower premiums and higher service prices and reveals how bargaining for lower prices is reduced. Predictions from the model are tested in a structural model of MLR regulation on negotiated prices and insurers' costs using data from the individual Health Insurance Exchange Marketplace. Estimated demand, cost, and bargaining parameters are then used to calculate welfare effects, which suggest that the MLR regulation led to higher health service prices and higher out-of-pocket payment.
 
