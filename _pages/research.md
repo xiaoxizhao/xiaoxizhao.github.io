@@ -10,11 +10,11 @@ author_profile: true
 ## Working Papers
 * "[The Effect of Medical Loss Ratio Regulation on Insurer Pricing](https://xiaoxizhao.github.io/files/JMP_XiaoxiZhao.pdf)," October, 2020. (Job Market Paper)
 
-<details>
-  <summary>Abstract</summary>
+  <details>
+    <summary>Abstract</summary>
   The Affordable Care Act Medical Loss Ratio (MLR) regulation limits insurers' profit by setting a minimum requirement on the ratio of medical spending to premium revenue. However, this regulation may undermine the incentives for insurers to bargain for lower prices when negotiating prices with health care providers.  In this paper, I build a bargaining model of how the MLR constraint affects price negotiation between insurers and providers. This model illustrates the insurer trade-off between lower premiums and higher service prices and reveals how bargaining for lower prices is reduced. Predictions from the model are tested in a structural model of MLR regulation on negotiated prices and insurers' costs using data from the individual Health Insurance Exchange Marketplace. Estimated demand, cost, and bargaining parameters are then used to calculate welfare effects, which suggest that the MLR regulation led to higher health service prices and higher out-of-pocket payment.
 
-</details>
+  </details>
 
 * "Higher Medicare Spending on Imaging and Lab Services After Physician Practice Vertical Integration," with Christopher M. Whaley, Michael R. Richards, Cheryl L.Damberg, June 2020. (R&R Health Affairs)
 * "The Extent of Externalities from Medicare Payment Policy," with Alice Chen, Michael R. Richards, Christopher M. Whaley, August 2020. (under review) [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-3.html)
