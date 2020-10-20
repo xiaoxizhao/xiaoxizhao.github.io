@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Working Papers
-* "[The Effect of Medical Loss Ratio Regulation on Insurer Pricing](https://xiaoxizhao.github.io/files/JMP_XiaoxiZhao.pdf)," October, 2020. (Job Market Paper)
+* "The Effect of Medical Loss Ratio Regulation on Insurer Pricing," October, 2020. (Job Market Paper)
 
   <details>
     <summary>Abstract</summary>
