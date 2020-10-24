@@ -22,15 +22,13 @@ author_profile: true
 * "Raising the Stakes - Physician Facility Investments and Provider Agency," with Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, September 2020. [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-4.html)
 * "[Health Care Demand Elasticity by Types of Cost Sharing](https://drive.google.com/file/d/1VIUUZ4iqUtm8VmoAACkQi6k3vHw7C-EA/view)," with Chenlu Song, November 2019.
 * "Delay in Mental Health Treatment for Children with Medical Complexity," with Christopher J.Louis, Sara S. Bachman, Meg Comeau, Allyson Baughman, Sean Lynch, Yiyang Yuan, Randall P. Ellis, May 2020. (under review)
+* “[The Impact of Organizational Boundaries on Healthcare Coordination and Utilization](https://github.com/xiaoxizhao/xiaoxizhao.github.io/blob/master/files/Organizational_Fragmentation.pdf),” with Leila Agha and Keith Ericson
 
 ## Work in progress
-* "Care Coordination across Firm Boundaries: Assessing the Role of Provider Organization," with Leila Agha and Keith Ericson
 * "The Effect of Vertical Integration on Physicians' Referral Pattern for Surgical Procedures," with Christopher M. Whaley
-* "Participation in Health Insurance Exchange Marketplaces"
+* "Participation in the Health Insurance Exchange Marketplaces"
 * "Heterogeneity of Income Effect on Benefit Distribution of Social Health Insurance: Evidence from China"
 
-
-  
 ## Publications
 
 B. Min and X. Zhao (2019). Measure Country-Level Socio-Economic Indicators with Streaming News: An Empirical Study. In proccedings of the Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP).
