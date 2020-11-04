@@ -25,7 +25,7 @@ author_profile: true
 * "Delay in Mental Health Treatment for Children with Medical Complexity," with Christopher J.Louis, Sara S. Bachman, Meg Comeau, Allyson Baughman, Sean Lynch, Yiyang Yuan, Randall P. Ellis, May 2020. (under review)
 
 ## Work in progress
-* "The Effect of Vertical Integration on Physicians' Referral Pattern for Surgical Procedures," with Christopher M. Whaley
+* "The Effect of Physician Vertical Integration on Referral Patterns, Patient Welfare, and Market Dynamics," with Christopher M. Whaley
 * "Participation in the Health Insurance Exchange Marketplaces"
 * "Heterogeneity of Income Effect on Benefit Distribution of Social Health Insurance: Evidence from China"
 
