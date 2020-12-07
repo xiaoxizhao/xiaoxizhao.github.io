@@ -18,9 +18,9 @@ author_profile: true
   </details>
 
 * "Higher Medicare Spending on Imaging and Lab Services After Physician Practice Vertical Integration," with Christopher M. Whaley, Michael R. Richards, Cheryl L.Damberg, June 2020. (R&R Health Affairs)
+* “The Impact of Organizational Boundaries on Healthcare Coordination and Utilization,” with Leila Agha and Keith Ericson, October 2020. (under review) [NBER WP version](https://www.nber.org/papers/w28179)
 * "The Extent of Externalities from Medicare Payment Policy," with Alice Chen, Michael R. Richards, Christopher M. Whaley, August 2020. (under review) [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-3.html)
 * "Raising the Stakes - Physician Facility Investments and Provider Agency," with Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, September 2020. [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-4.html)
-* “The Impact of Organizational Boundaries on Healthcare Coordination and Utilization,” with Leila Agha and Keith Ericson, October 2020. [NBER WP version](https://www.nber.org/papers/w28179)
 * "[Health Care Demand Elasticity by Types of Cost Sharing](https://drive.google.com/file/d/1VIUUZ4iqUtm8VmoAACkQi6k3vHw7C-EA/view)," with Chenlu Song, November 2019.
 * "Delay in Mental Health Treatment for Children with Medical Complexity," with Christopher J.Louis, Sara S. Bachman, Meg Comeau, Allyson Baughman, Sean Lynch, Yiyang Yuan, Randall P. Ellis, May 2020. (under review)
 
