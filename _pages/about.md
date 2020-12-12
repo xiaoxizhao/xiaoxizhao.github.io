@@ -12,6 +12,6 @@ Welcome to my website!
 
 I am a Ph.D. candidate in Economics at Boston University.
 
-My fields of interest are health economics and industrial organization. My research focuses primarily on public policies and the vertical relation in the health insurance market and the health care provider market.
+My fields of interest are health economics and industrial organization. I am particularly interested in public policies and vertical relationships in health insurance markets and health care provider markets. In my research, I employ both reduced-form and structural models to examine market participant behavior, exploring the mechanisms behind it, and expanding our understanding of policy questions.
 
 I am available for interviews in this job market cycle.
