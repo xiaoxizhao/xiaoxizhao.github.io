@@ -9,7 +9,7 @@ author_profile: true
 
 ## Working Papers
 * "[The Effect of Medical Loss Ratio Regulation on Insurer Pricing](https://xiaoxizhao.github.io/files/JMP_XiaoxiZhao.pdf)," November, 2020. (Job Market Paper)
-* 
+
 * "Higher Medicare Spending on Imaging and Lab Services After Physician Practice Vertical Integration," with Christopher M. Whaley, Michael R. Richards, Cheryl L.Damberg, March 2021. (Accepted *Health Affairs*)
 
 * "The Extent of Externalities from Medicare Payment Policy," with Alice Chen, Michael R. Richards, Christopher M. Whaley, March 2021. (R&R *American Journal of Health Economics*) [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-3.html)
