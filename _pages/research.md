@@ -8,24 +8,23 @@ author_profile: true
 {% include base_path %}
 
 ## Working Papers
-* "[The Effect of Medical Loss Ratio Regulation on Insurer Pricing](https://xiaoxizhao.github.io/files/JMP_XiaoxiZhao.pdf)," October, 2020. (Job Market Paper)
+* "[The Effect of Medical Loss Ratio Regulation on Insurer Pricing](https://xiaoxizhao.github.io/files/JMP_XiaoxiZhao.pdf)," November, 2020. (Job Market Paper)
+* 
+* "Higher Medicare Spending on Imaging and Lab Services After Physician Practice Vertical Integration," with Christopher M. Whaley, Michael R. Richards, Cheryl L.Damberg, March 2021. (Accepted Health Affairs)
 
-  <details>
-    <summary>Abstract</summary>
-  
-    The Affordable Care Act Medical Loss Ratio (MLR) regulation limits each insurers' profit by setting a minimum requirement on the ratio of medical spending to premium revenue. This regulation may undermine the incentives for insurers to bargain for lower prices when negotiating with health care providers. I build a bargaining model of how MLR constraint affects price negotiation between insurers and providers. This model illustrates the insurer trade-off between lower premiums and higher service prices and reveals how bargaining for lower prices is reduced. Predictions from the model are tested in a structural model of MLR regulation on negotiated prices and insurers' costs using data from the individual Health Insurance Exchange Marketplace. Welfare calculations using estimated demand, cost, and bargaining parameters suggest that the MLR regulation led to higher health service prices and higher out-of-pocket payments.
+* "The Extent of Externalities from Medicare Payment Policy," with Alice Chen, Michael R. Richards, Christopher M. Whaley, March 2021. (R&R American Journal of Health Economics) [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-3.html)
 
-  </details>
-
-* "Higher Medicare Spending on Imaging and Lab Services After Physician Practice Vertical Integration," with Christopher M. Whaley, Michael R. Richards, Cheryl L.Damberg, June 2020. (R&R Health Affairs)
 * “The Impact of Organizational Boundaries on Healthcare Coordination and Utilization,” with Leila Agha and Keith Ericson, December 2020. (under review) [NBER WP version](https://www.nber.org/papers/w28179)
-* "The Extent of Externalities from Medicare Payment Policy," with Alice Chen, Michael R. Richards, Christopher M. Whaley, August 2020. (under review) [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-3.html)
+
 * "Raising the Stakes - Physician Facility Investments and Provider Agency," with Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, September 2020. [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-4.html)
+
 * "[What Saves More: Coinsurance or Copayment?](https://drive.google.com/file/d/1VIUUZ4iqUtm8VmoAACkQi6k3vHw7C-EA/view)," with Chenlu Song, November 2019.
+
 * "Delay in Mental Health Treatment for Children with Medical Complexity," with Christopher J.Louis, Sara S. Bachman, Meg Comeau, Allyson Baughman, Sean Lynch, Yiyang Yuan, Randall P. Ellis, May 2020. (under review)
 
 ## Work in progress
 * "The Effect of Physician Vertical Integration on Referral Patterns, Patient Welfare, and Market Dynamics," with Christopher M. Whaley
+* "Should the Loading Fee in Health Insurance Be Included in The Risk Equalization? An Analysis of Four Countries," with Sylvia Demme, Rudy Douven, Lukas Kauer, Wynand van de Ven, J{\"u}rgen Wasem
 * "Participation in the Health Insurance Exchange Marketplaces"
 * "Heterogeneity of Income Effect on Benefit Distribution of Social Health Insurance: Evidence from China"
 
