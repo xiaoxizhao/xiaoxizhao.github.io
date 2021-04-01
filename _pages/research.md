@@ -12,7 +12,7 @@ author_profile: true
 
 * "The Extent of Externalities from Medicare Payment Policy," with Alice Chen, Michael R. Richards, Christopher M. Whaley, March 2021. (Revision requested at *American Journal of Health Economics*) [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-3.html)
 
-* “The Impact of Organizational Boundaries on Healthcare Coordination and Utilization,” with Leila Agha and Keith Ericson, December 2020. (Revision requested at *American Economic Journal: Economic Policy*) [NBER WP version](https://www.nber.org/papers/w28179)
+* "The Impact of Organizational Boundaries on Healthcare Coordination and Utilization,” with Leila Agha and Keith Ericson, December 2020. (Revision requested at *American Economic Journal: Economic Policy*) [NBER WP version](https://www.nber.org/papers/w28179)
 
 * "Raising the Stakes - Physician Facility Investments and Provider Agency," with Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, September 2020. [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-4.html)
 
