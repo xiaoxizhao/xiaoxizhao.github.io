@@ -8,9 +8,9 @@ author_profile: true
 {% include base_path %}
 
 ## Working Papers
-* "[The Effect of Medical Loss Ratio Regulation on Insurer Pricing](https://xiaoxizhao.github.io/files/JMP_XiaoxiZhao.pdf)," November, 2020. (Job Market Paper)
-
-* "The Extent of Externalities from Medicare Payment Policy," with Alice Chen, Michael R. Richards, Christopher M. Whaley, March 2021. (Revision requested at *American Journal of Health Economics*) [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-3.html)
+* "[The Effect of Medical Loss Ratio Regulation on Insurer Pricing](https://xiaoxizhao.github.io/files/JMP_XiaoxiZhao.pdf)," November, 2020. 
+* 
+* "The Extent of Externalities from Medicare Payment Policy," with Alice Chen, Michael R. Richards, Christopher M. Whaley, March 2021. (R&R *American Journal of Health Economics*) [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-3.html)
 
 * "The Impact of Organizational Boundaries on Healthcare Coordination and Utilization," with Leila Agha and Keith Ericson, December 2020. (Revision requested at *American Economic Journal: Economic Policy*) [NBER WP version](https://www.nber.org/papers/w28179)
 
@@ -27,7 +27,7 @@ author_profile: true
 * "Heterogeneity of Income Effect on Benefit Distribution of Social Health Insurance: Evidence from China"
 
 ## Publications
-Whaley, Christopher, Xiaoxi Zhao, Michael Richards, and Cheryl Damberg, "Higher Medicare Spending on Imaging and Lab Services After Physician Practice Vertical Integration."  *Health Affairs*, forthcoming. 
+Whaley, Christopher, Xiaoxi Zhao, Michael Richards, and Cheryl Damberg, "Higher Medicare Spending on Imaging and Lab Services After Physician Practice Vertical Integration."  *Health Affairs* 2021, 40(5), 702-709.
 
 Min, Bonan, and Xiaoxi Zhao, "Measure Country-Level Socio-Economic Indicators with Streaming News: An Empirical Study." *Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)* 2019, pp. 1249-1254.
 
