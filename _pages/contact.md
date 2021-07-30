@@ -7,9 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Department of Economics\\
-Boston University  \\
-270 Bay State Road  \\
-Boston, MA 02215
+Economics, Sociology, and Statistics\\
+RAND Corporation \\
 
-Email: xiaoxiz AT bu.edu
+Email: xzhao AT rand.org
