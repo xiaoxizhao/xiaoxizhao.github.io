@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Working Papers
-* "[The Effect of Medical Loss Ratio Regulation on Insurer Pricing](https://xiaoxizhao.github.io/files/JMP_XiaoxiZhao.pdf)," November, 2020. 
+* "[The Effect of Medical Loss Ratio Regulation on Insurer Pricing](https://xiaoxizhao.github.io/files/JMP_XiaoxiZhao.pdf)," March, 2021. 
 
 * "The Extent of Externalities from Medicare Payment Policy," with Alice Chen, Michael R. Richards, Christopher M. Whaley, March 2021. (R&R *American Journal of Health Economics*) [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-3.html)
 
