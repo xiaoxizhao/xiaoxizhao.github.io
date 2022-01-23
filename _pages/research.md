@@ -24,11 +24,11 @@ author_profile: true
 
 ## Publications
 Agha, Leila, Ericson, Keith , and Xiaoxi Zhao. "The Impact of Organizational Boundaries on Healthcare Coordination and Utilization"
-*American Economic Journal: Economic Policy*. (Conditionally accepted) [NBER WP version](https://www.nber.org/papers/w28179)
+*American Economic Journal: Economic Policy*. (Conditionally accepted)
 
 Douven, Rudy, Lukas Kauer, Sylvia Demme, Francesco Paolucci, Wynand van de Ven, Jürgen Wasem, and Xiaoxi Zhao. "Should administrative costs in health insurance be included in the risk-equalization? An analysis of five countries", *European Journal of Health Economics* (Accepted)
 
-Chen, Alice, Michael Richards, Christopher Whaley, and Xiaoxi Zhao. "The Extent Of Externalities From Medicare Payment Policy", *American Journal of Health Economics*. (Accepted) [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-3.html)
+Chen, Alice, Michael Richards, Christopher Whaley, and Xiaoxi Zhao. "The Extent Of Externalities From Medicare Payment Policy", *American Journal of Health Economics*. (Accepted)
 
 Whaley, Christopher, Xiaoxi Zhao, Michael Richards, and Cheryl Damberg. 2021. "Higher Medicare Spending on Imaging and Lab Services After Physician Practice Vertical Integration."  *Health Affairs* 2021, 40(5), 702-709.
 
