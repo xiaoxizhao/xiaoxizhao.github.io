@@ -24,7 +24,7 @@ author_profile: true
 
 ## Publications
 Agha, Leila, Ericson, Keith , and Xiaoxi Zhao. "The Impact of Organizational Boundaries on Healthcare Coordination and Utilization"
-*American Economic Journal: Economic Policy*. (Accepted)
+*American Economic Journal: Economic Policy*, forthcoming.
 
 Chen, Alice, Michael Richards, Christopher Whaley, and Xiaoxi Zhao (2022). "The Extent Of Externalities From Medicare Payment Policy", *American Journal of Health Economics*.
 
