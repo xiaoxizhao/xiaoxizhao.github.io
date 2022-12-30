@@ -8,9 +8,11 @@ author_profile: true
 {% include base_path %}
 
 ## Working in progress
-* "The Effects of Medical Provider Vertical Integration on Parenteral Prescription Drug Spending and Utilization," with Jonathan S. Levin and Christopher Whaley, Jan 2022.
+* "Outside Equity and Healthcare Firm Behavior," with Haizhen Lin, Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, December 2022 (submitted)
 
-* "The Effect of Physician Vertical Integration on Referral Patterns, Patient Welfare, and Market Dynamics," with Christopher Whaley, Dec 2022. Revise and resubmit, *Journal of Public Economics*
+* "The Effects of Medical Provider Vertical Integration on Parenteral Prescription Drug Spending and Utilization," with Jonathan S. Levin and Christopher Whaley, January 2022.
+
+* "The Effect of Physician Vertical Integration on Referral Patterns, Patient Welfare, and Market Dynamics," with Christopher Whaley, December 2022. Revise and resubmit, *Journal of Public Economics*
  
 * "[The Effect of Medical Loss Ratio Regulation on Insurer Pricing](https://xiaoxizhao.github.io/files/JMP_XiaoxiZhao.pdf)," March, 2021. 
 
