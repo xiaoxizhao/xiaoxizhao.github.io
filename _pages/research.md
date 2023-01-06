@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Working in progress
-* "Outside Equity and Healthcare Firm Behavior," with Haizhen Lin, Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, December 2022 (submitted)
+* "Outside Equity and Healthcare Firm Behavior," with Haizhen Lin, Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, December 2022 (submitted) [RNAD WP version](https://www.rand.org/pubs/working_papers/WRA621-6.html)
 
 * "The Effects of Medical Provider Vertical Integration on Parenteral Prescription Drug Spending and Utilization," with Jonathan S. Levin and Christopher Whaley, January 2022.
 
@@ -25,6 +25,7 @@ author_profile: true
 * "Heterogeneity of Income Effect on Benefit Distribution of Social Health Insurance: Evidence from China"
 
 ## Publications
+### Peer reviewed papers
 Agha, Leila, Ericson, Keith , and Xiaoxi Zhao. "The Impact of Organizational Boundaries on Healthcare Coordination and Utilization"
 *American Economic Journal: Economic Policy*, forthcoming.
 
@@ -36,13 +37,18 @@ Whaley, Christopher, Xiaoxi Zhao, Michael Richards, and Cheryl Damberg (2021). "
 
 Min, Bonan, and Xiaoxi Zhao (2019). "Measure Country-Level Socio-Economic Indicators with Streaming News: An Empirical Study." *Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)*, pp. 1249-1254.
 
-[Global Hospital Management Survey - China, Management in Healthcare Report](https://www.hbs.edu/faculty/conferences/2014-world-management-survey/Documents/GlobalHospital_Management_Survey_Horak.pdf), 2015.
+
 
 Leng, Biao, Xiaoxi Zhao, and Zhang Xiong (2014). "Evaluating the Evolution of Subway Networks: Evidence from Beijing Subway Network." *EPL (Europhysics Letters)*, 105: 58004.
 
 Leng, Biao, Jianyuan Wang, Xiaoxi Zhao, Jun Fang, and Zhang Xiong (2013). "Out Flow in A Virtual MTR Station Using A Local View Floor Field Model." *International Journal of Modern Physics C*, 24: 1350037.
 
 Zhao, Xiaoxi (2012). "Analysis of The Major Factors Affecting Macao's Economy." *2012 International Conference on Management Science Engineering 19th Annual Conference Proceedings*, pp.970-976 
+
+### Reports
+Jodi L. Liu, Zachary M. Levinson, Annetta Zhou, Xiaoxi Zhao, PhuongGiang Nguyen, Nabeel Qureshi (2022). "Environmental Scan on Consolidation Trends and Impacts in Health Care Markets" [https://www.rand.org/pubs/research_reports/RRA1820-1.html](https://www.rand.org/pubs/research_reports/RRA1820-1.html)
+
+[Global Hospital Management Survey - China, Management in Healthcare Report](https://www.hbs.edu/faculty/conferences/2014-world-management-survey/Documents/GlobalHospital_Management_Survey_Horak.pdf), 2015.
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
