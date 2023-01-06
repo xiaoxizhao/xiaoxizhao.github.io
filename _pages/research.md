@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Working in progress
-* "Outside Equity and Healthcare Firm Behavior," with Haizhen Lin, Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, December 2022 (submitted) [RNAD WP version](https://www.rand.org/pubs/working_papers/WRA621-6.html)
+* "Outside Equity and Healthcare Firm Behavior," with Haizhen Lin, Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, December 2022 (submitted) [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-6.html)
 
 * "The Effects of Medical Provider Vertical Integration on Parenteral Prescription Drug Spending and Utilization," with Jonathan S. Levin and Christopher Whaley, January 2022.
 
