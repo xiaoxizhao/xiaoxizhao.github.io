@@ -23,10 +23,10 @@ author_profile: true
 * "Heterogeneity of Income Effect on Benefit Distribution of Social Health Insurance: Evidence from China"
 
 ## Publications
-### Peer reviewed papers
-Haizhen Lin, Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, and Xiaoxi Zhao. "Outside Equity and Healthcare Firm Behavior," *Journal of Health Economics*, accepted
+### Peer-reviewed papers
+Haizhen Lin, Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, and Xiaoxi Zhao. "Outside Equity and Healthcare Firm Behavior," *Journal of Health Economics*, accepted.
 
-Agha, Leila, Ericson, Keith , and Xiaoxi Zhao (2023). "The Impact of Organizational Boundaries on Healthcare Coordination and Utilization"
+Agha, Leila, Ericson, Keith, and Xiaoxi Zhao (2023). "The Impact of Organizational Boundaries on Healthcare Coordination and Utilization"
 *American Economic Journal: Economic Policy*.
 
 Chen, Alice, Michael Richards, Christopher Whaley, and Xiaoxi Zhao (2022). "The Extent Of Externalities From Medicare Payment Policy", *American Journal of Health Economics*.
