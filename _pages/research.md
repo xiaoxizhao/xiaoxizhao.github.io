@@ -8,8 +8,6 @@ author_profile: true
 {% include base_path %}
 
 ## Working in progress
-* "Outside Equity and Healthcare Firm Behavior," with Haizhen Lin, Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, December 2022 (submitted) [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-6.html)
-
 * "The Effects of Medical Provider Vertical Integration on Parenteral Prescription Drug Spending and Utilization," with Jonathan S. Levin and Christopher Whaley, January 2022.
 
 * "The Effect of Physician Vertical Integration on Referral Patterns, Patient Welfare, and Market Dynamics," with Christopher Whaley, December 2022. Revise and resubmit, *Journal of Public Economics*
@@ -26,8 +24,10 @@ author_profile: true
 
 ## Publications
 ### Peer reviewed papers
-Agha, Leila, Ericson, Keith , and Xiaoxi Zhao. "The Impact of Organizational Boundaries on Healthcare Coordination and Utilization"
-*American Economic Journal: Economic Policy*, forthcoming.
+Haizhen Lin, Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, and Xiaoxi Zhao. "Outside Equity and Healthcare Firm Behavior," *Journal of Health Economics*, accepted
+
+Agha, Leila, Ericson, Keith , and Xiaoxi Zhao (2023). "The Impact of Organizational Boundaries on Healthcare Coordination and Utilization"
+*American Economic Journal: Economic Policy*.
 
 Chen, Alice, Michael Richards, Christopher Whaley, and Xiaoxi Zhao (2022). "The Extent Of Externalities From Medicare Payment Policy", *American Journal of Health Economics*.
 
