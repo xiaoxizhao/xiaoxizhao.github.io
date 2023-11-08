@@ -7,21 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Working in progress
-* "The Effects of Medical Provider Vertical Integration on Parenteral Prescription Drug Spending and Utilization," with Jonathan S. Levin and Christopher Whaley, January 2022.
-
-* "The Effect of Physician Vertical Integration on Referral Patterns, Patient Welfare, and Market Dynamics," with Christopher Whaley, December 2022. Revise and resubmit, *Journal of Public Economics*
- 
-* "[The Effect of Medical Loss Ratio Regulation on Insurer Pricing](https://xiaoxizhao.github.io/files/JMP_XiaoxiZhao.pdf)," March, 2021. 
-
-* "Raising the Stakes - Physician Facility Investments and Provider Agency," with Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, September 2020. Revise and resubmit, *American Economic Review* [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-4.html)
-
-* "[What Saves More: Coinsurance or Copayment?](https://drive.google.com/file/d/1VIUUZ4iqUtm8VmoAACkQi6k3vHw7C-EA/view)," with Chenlu Song, November 2019.
-
-* "Participation in the Health Insurance Exchange Marketplaces"
-
-* "Heterogeneity of Income Effect on Benefit Distribution of Social Health Insurance: Evidence from China"
-
 ## Publications
 ### Peer-reviewed papers
 Haizhen Lin, Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, and Xiaoxi Zhao. "Outside Equity and Healthcare Firm Behavior," *Journal of Health Economics*, accepted.
@@ -49,6 +34,22 @@ Zhao, Xiaoxi (2012). "Analysis of The Major Factors Affecting Macao's Economy." 
 Jodi L. Liu, Zachary M. Levinson, Annetta Zhou, Xiaoxi Zhao, PhuongGiang Nguyen, Nabeel Qureshi (2022). "Environmental Scan on Consolidation Trends and Impacts in Health Care Markets" [https://www.rand.org/pubs/research_reports/RRA1820-1.html](https://www.rand.org/pubs/research_reports/RRA1820-1.html)
 
 [Global Hospital Management Survey - China, Management in Healthcare Report](https://www.hbs.edu/faculty/conferences/2014-world-management-survey/Documents/GlobalHospital_Management_Survey_Horak.pdf), 2015.
+
+## Working in progress
+* "The Effects of Medical Provider Vertical Integration on Parenteral Prescription Drug Spending and Utilization," with Jonathan S. Levin and Christopher Whaley, January 2022.
+
+* "The Effect of Physician Vertical Integration on Referral Patterns, Patient Welfare, and Market Dynamics," with Christopher Whaley, December 2022. Revise and resubmit, *Journal of Public Economics*
+ 
+* "[The Effect of Medical Loss Ratio Regulation on Insurer Pricing](https://xiaoxizhao.github.io/files/JMP_XiaoxiZhao.pdf)," March, 2021. 
+
+* "Raising the Stakes - Physician Facility Investments and Provider Agency," with Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, September 2020. Revise and resubmit, *American Economic Review* [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-4.html)
+
+* "[What Saves More: Coinsurance or Copayment?](https://drive.google.com/file/d/1VIUUZ4iqUtm8VmoAACkQi6k3vHw7C-EA/view)," with Chenlu Song, November 2019.
+
+* "Participation in the Health Insurance Exchange Marketplaces"
+
+* "Heterogeneity of Income Effect on Benefit Distribution of Social Health Insurance: Evidence from China"
+
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
