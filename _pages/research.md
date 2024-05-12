@@ -9,20 +9,18 @@ author_profile: true
 
 ## Publications
 ### Peer-reviewed papers
-Haizhen Lin, Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, and Xiaoxi Zhao. "Outside Equity and Healthcare Firm Behavior," *Journal of Health Economics*, accepted.
+Haizhen Lin, Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, and Xiaoxi Zhao (2023). "Outside Equity and Healthcare Firm Behavior." *Journal of Health Economics*, 91, 102801.
 
-Agha, Leila, Ericson, Keith, and Xiaoxi Zhao (2023). "The Impact of Organizational Boundaries on Healthcare Coordination and Utilization"
-*American Economic Journal: Economic Policy*.
+Agha, Leila, Ericson, Keith, and Xiaoxi Zhao (2023). "The Impact of Organizational Boundaries on Healthcare Coordination and Utilization."
+*American Economic Journal: Economic Policy* 15(3), 184-214.
 
-Chen, Alice, Michael Richards, Christopher Whaley, and Xiaoxi Zhao (2022). "The Extent Of Externalities From Medicare Payment Policy", *American Journal of Health Economics*.
+Chen, Alice, Michael Richards, Christopher Whaley, and Xiaoxi Zhao (2022). "The Extent Of Externalities From Medicare Payment Policy." *American Journal of Health Economics* 8(2), 181-215.
 
-Douven, Rudy, Lukas Kauer, Sylvia Demme, Francesco Paolucci, Wynand van de Ven, Jürgen Wasem, and Xiaoxi Zhao (2022). "Should administrative costs in health insurance be included in the risk-equalization? An analysis of five countries", *European Journal of Health Economics*.
+Douven, Rudy, Lukas Kauer, Sylvia Demme, Francesco Paolucci, Wynand van de Ven, Jürgen Wasem, and Xiaoxi Zhao (2022). "Should administrative costs in health insurance be included in the risk-equalization? An analysis of five countries." *European Journal of Health Economics*.
 
-Whaley, Christopher, Xiaoxi Zhao, Michael Richards, and Cheryl Damberg (2021). "Higher Medicare Spending on Imaging and Lab Services After Physician Practice Vertical Integration."  *Health Affairs* 2021, 40(5), 702-709.
+Whaley, Christopher, Xiaoxi Zhao, Michael Richards, and Cheryl Damberg (2021). "Higher Medicare Spending on Imaging and Lab Services After Physician Practice Vertical Integration."  *Health Affairs* 40(5), 702-709.
 
 Min, Bonan, and Xiaoxi Zhao (2019). "Measure Country-Level Socio-Economic Indicators with Streaming News: An Empirical Study." *Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)*, pp. 1249-1254.
-
-
 
 Leng, Biao, Xiaoxi Zhao, and Zhang Xiong (2014). "Evaluating the Evolution of Subway Networks: Evidence from Beijing Subway Network." *EPL (Europhysics Letters)*, 105: 58004.
 
