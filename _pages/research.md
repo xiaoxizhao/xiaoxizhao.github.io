@@ -9,7 +9,7 @@ author_profile: true
 
 ## Publications
 ### Peer-reviewed papers
-Zhao, Xiaoxi, Michael R. Richards, Cheryl L. Damberg, and Christopher M. Whaley (2024). "Market Landscape and Insurer-Provider Integration: The Case of Ambulatory Surgery Centers." Health Affairs Scholar, qxae081.
+Zhao, Xiaoxi, Michael R. Richards, Cheryl L. Damberg, and Christopher M. Whaley (2024). "Market Landscape and Insurer-Provider Integration: The Case of Ambulatory Surgery Centers." *Health Affairs Scholar*, qxae081.
 
 Lin, Haizhen, Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, and Xiaoxi Zhao (2023). "Outside Equity and Healthcare Firm Behavior." *Journal of Health Economics*, 91, 102801.
 
