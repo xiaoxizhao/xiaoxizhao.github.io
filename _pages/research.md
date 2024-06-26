@@ -9,7 +9,9 @@ author_profile: true
 
 ## Publications
 ### Peer-reviewed papers
-Haizhen Lin, Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, and Xiaoxi Zhao (2023). "Outside Equity and Healthcare Firm Behavior." *Journal of Health Economics*, 91, 102801.
+Zhao, Xiaoxi, Michael R. Richards, Cheryl L. Damberg, and Christopher M. Whaley (2024). "Market Landscape and Insurer-Provider Integration: The Case of Ambulatory Surgery Centers." Health Affairs Scholar, qxae081.
+
+Lin, Haizhen, Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, and Xiaoxi Zhao (2023). "Outside Equity and Healthcare Firm Behavior." *Journal of Health Economics*, 91, 102801.
 
 Agha, Leila, Ericson, Keith, and Xiaoxi Zhao (2023). "The Impact of Organizational Boundaries on Healthcare Coordination and Utilization."
 *American Economic Journal: Economic Policy* 15(3), 184-214.
@@ -36,11 +38,11 @@ Jodi L. Liu, Zachary M. Levinson, Annetta Zhou, Xiaoxi Zhao, PhuongGiang Nguyen,
 ## Working in progress
 * "The Effects of Medical Provider Vertical Integration on Parenteral Prescription Drug Spending and Utilization," with Jonathan S. Levin and Christopher Whaley, January 2022.
 
-* "The Effect of Physician Vertical Integration on Referral Patterns, Patient Welfare, and Market Dynamics," with Christopher Whaley, December 2022. Revise and resubmit, *Journal of Public Economics*
+* "The Effect of Physician Vertical Integration on Referral Patterns, Patient Welfare, and Market Dynamics," with Christopher Whaley, December 2022. Accepted, *Journal of Public Economics*
  
 * "[The Effect of Medical Loss Ratio Regulation on Insurer Pricing](https://xiaoxizhao.github.io/files/JMP_XiaoxiZhao.pdf)," March, 2021. 
 
-* "Raising the Stakes - Physician Facility Investments and Provider Agency," with Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, September 2020. Revise and resubmit, *American Economic Review* [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-4.html)
+* "Raising the Stakes - Physician Facility Investments and Provider Agency," with Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, May 2024. Revise and resubmit, *American Economic Review* [RAND WP version](https://www.rand.org/pubs/working_papers/WRA621-4-v2.html)
 
 * "[What Saves More: Coinsurance or Copayment?](https://drive.google.com/file/d/1VIUUZ4iqUtm8VmoAACkQi6k3vHw7C-EA/view)," with Chenlu Song, November 2019.
 
