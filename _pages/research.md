@@ -44,8 +44,6 @@ Jodi L. Liu, Zachary M. Levinson, Annetta Zhou, Xiaoxi Zhao, PhuongGiang Nguyen,
 
 ## Working in progress
 * "Raising the Stakes - Physician Facility Investments and Provider Agency," with Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, May 2024. Conditional accepted, *American Economic Review*
-  
-* "The Effects of Medical Provider Vertical Integration on Parenteral Prescription Drug Spending and Utilization," with Jonathan S. Levin and Christopher Whaley, June 2024. Accepted, *Health Economics*
  
 * "[The Effect of Medical Loss Ratio Regulation on Insurer Pricing](https://xiaoxizhao.github.io/files/JMP_XiaoxiZhao.pdf)," March, 2021. 
 
