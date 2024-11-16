@@ -13,6 +13,8 @@ author_profile: true
 
 \*Whaley, Christopher, and Xiaoxi Zhao (2024). "The effects of physician vertical integration on referral patterns, patient welfare, and market dynamics." *Journal of Public Economics*, 238, 105175.
 
+Levin, J. S., Zhao, X., & Whaley, C. (2024). Impact of hospital-physician vertical integration on physician-administered drug spending and utilization. *Health Economics*, 1–23. https://doi.org/10.1002/hec.4909
+
 Zhao, Xiaoxi, Michael R. Richards, Cheryl L. Damberg, and Christopher M. Whaley (2024). "Market Landscape and Insurer-Provider Integration: The Case of Ambulatory Surgery Centers." *Health Affairs Scholar*, qxae081.
 
 \*Lin, Haizhen, Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, and Xiaoxi Zhao (2023). "Outside Equity and Healthcare Firm Behavior." *Journal of Health Economics*, 91, 102801.
