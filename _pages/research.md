@@ -11,6 +11,10 @@ author_profile: true
 ### Peer-reviewed papers
 \*Denotes authors listed in alphabetical order
 
+Kranz, A. M., Zhao, X., Munnich, E., Lee, J. Y., & Whaley, C. (2025). "Medicaid Payments and Outcomes for Pediatric Dental Surgical Procedures by Site of Care." *JAMA Network Open*, 8(10), e2537081-e2537081.
+
+Levin, J. S., Zhao, X., & Whaley, C. M. (2025). "Impact of hospital-physician vertical integration on physician-administered drug spending and utilization." *Health Economics*, 34(2), 345-367.
+
 \*Whaley, Christopher, and Xiaoxi Zhao (2024). "The effects of physician vertical integration on referral patterns, patient welfare, and market dynamics." *Journal of Public Economics*, 238, 105175.
 
 Levin, J. S., Zhao, X., & Whaley, C. (2024). Impact of hospital-physician vertical integration on physician-administered drug spending and utilization. *Health Economics*, 1–23. https://doi.org/10.1002/hec.4909
