@@ -7,11 +7,22 @@ author_profile: true
 
 {% include base_path %}
 
+## Working Papers
+* "Raising the Stakes - Physician Facility Investments and Provider Agency," with Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, May 2024. Conditional accepted, *American Economic Review*
+ 
+* “Efficiency in Organizational Structure? Assessing Heterogeneous Effects in Hospital-Physician Integration,”
+with Cheryl L. Damberg, Michael R. Richards, Christopher M. Whaley, September 2024. Revise and Resubmit, *Journal of Health Economics*
+ 
+* "[The Effect of Medical Loss Ratio Regulation on Insurer Pricing](https://xiaoxizhao.github.io/files/JMP_XiaoxiZhao.pdf)," March, 2021. 
+
 ## Publications
 ### Peer-reviewed papers
 \*Denotes authors listed in alphabetical order
 
 Kranz, A. M., Zhao, X., Munnich, E., Lee, J. Y., & Whaley, C. (2025). "Medicaid Payments and Outcomes for Pediatric Dental Surgical Procedures by Site of Care." *JAMA Network Open*, 8(10), e2537081-e2537081.
+
+Zhao, X., Whaley, C. M., Munnich, E., Lee, J. Y., & Kranz, A. M. (2025). "Pricing and Insurance
+Networks in Outpatient Surgery Markets." *American Journal of Managed Care*, 31(10), 571-574.
 
 Levin, J. S., Zhao, X., & Whaley, C. M. (2025). "Impact of hospital-physician vertical integration on physician-administered drug spending and utilization." *Health Economics*, 34(2), 345-367.
 
@@ -46,10 +57,7 @@ Jodi L. Liu, Zachary M. Levinson, Annetta Zhou, Xiaoxi Zhao, PhuongGiang Nguyen,
 [Global Hospital Management Survey - China, Management in Healthcare Report](https://www.hbs.edu/faculty/conferences/2014-world-management-survey/Documents/GlobalHospital_Management_Survey_Horak.pdf), 2015.
 
 
-## Working in progress
-* "Raising the Stakes - Physician Facility Investments and Provider Agency," with Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, May 2024. Conditional accepted, *American Economic Review*
- 
-* "[The Effect of Medical Loss Ratio Regulation on Insurer Pricing](https://xiaoxizhao.github.io/files/JMP_XiaoxiZhao.pdf)," March, 2021. 
+
 
 
   <ul>{% for post in site.publications %}
