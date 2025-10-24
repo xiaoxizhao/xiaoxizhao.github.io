@@ -8,12 +8,13 @@ author_profile: true
 {% include base_path %}
 
 ## Working Papers
-* "Raising the Stakes - Physician Facility Investments and Provider Agency," with Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, May 2024. Conditional accepted, *American Economic Review*
+
+"Raising the Stakes - Physician Facility Investments and Provider Agency," with Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, May 2024. Conditional accepted, *American Economic Review*
  
-* “Efficiency in Organizational Structure? Assessing Heterogeneous Effects in Hospital-Physician Integration,”
+“Efficiency in Organizational Structure? Assessing Heterogeneous Effects in Hospital-Physician Integration,”
 with Cheryl L. Damberg, Michael R. Richards, Christopher M. Whaley, September 2024. Revise and Resubmit, *Journal of Health Economics*
  
-* "[The Effect of Medical Loss Ratio Regulation on Insurer Pricing](https://xiaoxizhao.github.io/files/JMP_XiaoxiZhao.pdf)," March, 2021. 
+"[The Effect of Medical Loss Ratio Regulation on Insurer Pricing](https://xiaoxizhao.github.io/files/JMP_XiaoxiZhao.pdf)," March, 2021. 
 
 ## Publications
 ### Peer-reviewed papers
