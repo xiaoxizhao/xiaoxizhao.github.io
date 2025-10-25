@@ -46,7 +46,7 @@ Leng, Biao, Xiaoxi Zhao, and Zhang Xiong (2014). "[Evaluating the Evolution of S
 
 Leng, Biao, Jianyuan Wang, Xiaoxi Zhao, Jun Fang, and Zhang Xiong (2013). "[Out Flow in A Virtual MTR Station Using A Local View Floor Field Model](https://www.worldscientific.com/doi/abs/10.1142/S012918311350037X)." *International Journal of Modern Physics C*, 24: 1350037.
 
-%Zhao, Xiaoxi (2012). "Analysis of The Major Factors Affecting Macao's Economy." *2012 International Conference on Management Science Engineering 19th Annual Conference Proceedings*, pp.970-976 
+Zhao, Xiaoxi (2012). "[Analysis of The Major Factors Affecting Macao's Economy](https://ieeexplore.ieee.org/document/6414294)." *2012 International Conference on Management Science Engineering 19th Annual Conference Proceedings*, pp.970-976 
 
 ### Reports
 Jodi L. Liu, Zachary M. Levinson, Annetta Zhou, Xiaoxi Zhao, PhuongGiang Nguyen, Nabeel Qureshi (2022). "[Environmental Scan on Consolidation Trends and Impacts in Health Care Markets](https://pmc.ncbi.nlm.nih.gov/articles/PMC10273895/)." *RAND Health Quarterly*
