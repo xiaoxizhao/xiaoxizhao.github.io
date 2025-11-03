@@ -10,4 +10,4 @@ author_profile: true
 Economics, Sociology, and Statistics\\
 RAND Corporation \\
 
-Email: xzhao AT rand.org
+Email: christelle.zhao AT gmail.com
