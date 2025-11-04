@@ -7,24 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-## Working Papers
-
-"Raising the Stakes - Physician Facility Investments and Provider Agency," with Elizabeth L. Munnich, Michael R. Richards, Christopher M. Whaley, May 2024. Conditional accepted, *American Economic Review*
- 
-“Efficiency in Organizational Structure? Assessing Heterogeneous Effects in Hospital-Physician Integration,”
-with Cheryl L. Damberg, Michael R. Richards, Christopher M. Whaley, September 2024. Revise and Resubmit, *Journal of Health Economics*
- 
-"[The Effect of Medical Loss Ratio Regulation on Insurer Pricing](https://xiaoxizhao.github.io/files/JMP_XiaoxiZhao.pdf)," March, 2021. 
-
 ## Publications
 ### Peer-reviewed papers
 \*Denotes authors listed in alphabetical order
+*Munnich, Elizabeth L., Michael R. Richards, Christopher M. Whaley, and Xiaoxi Zhao. "[Raising the Stakes - Physician Facility Investments and Provider Agency](https://www.aeaweb.org/articles?id=10.1257/aer.20211324&from=f)."  *American Economic Review*, forthcoming.
 
-Kranz, A. M., Zhao, X., Munnich, E., Lee, J. Y., & Whaley, C. (2025). "[Medicaid Payments and Outcomes for Pediatric Dental Surgical Procedures by Site of Care](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839928)." *JAMA Network Open*, 8(10), e2537081-e2537081.
+Kranz, Ashley M., Xiaoxi Zhao, Elizabeth Munnich, Jessica Y. Lee, and Christopher Whaley. (2025). "[Medicaid Payments and Outcomes for Pediatric Dental Surgical Procedures by Site of Care](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839928)." *JAMA Network Open*, 8(10), e2537081-e2537081.
 
-Levin, J. S., Zhao, X., & Whaley, C. M. (2025). "[Impact of hospital-physician vertical integration on physician-administered drug spending and utilization](https://onlinelibrary.wiley.com/doi/abs/10.1002/hec.4909)." *Health Economics*, 34(2), 345-367.
+Levin, Jonathan S., Xiaoxi Zhao, and Christopher Whaley. (2025). "[Impact of hospital-physician vertical integration on physician-administered drug spending and utilization](https://onlinelibrary.wiley.com/doi/abs/10.1002/hec.4909)." *Health Economics*, 34(2), 345-367.
 
-Zhao, X., Whaley, C. M., Munnich, E., Lee, J. Y., & Kranz, A. M. (2025). "[Pricing and Insurance Networks in Outpatient Surgery Markets](https://www.ajmc.com/view/pricing-and-insurance-networks-in-outpatient-surgery-markets)." *American Journal of Managed Care*, 31(10), 571-574.
+Zhao, Xiaoxi, Christopher M. Whaley, Elizabeth L. Munnich, Jessica Y. Lee, and Ashley M. Kranz (2025). "[Pricing and Insurance Networks in Outpatient Surgery Markets](https://www.ajmc.com/view/pricing-and-insurance-networks-in-outpatient-surgery-markets)." *American Journal of Managed Care*, 31, no. 10 (2025): 571-574.
 
 \*Whaley, Christopher, and Xiaoxi Zhao (2024). "[The effects of physician vertical integration on referral patterns, patient welfare, and market dynamics](https://www.sciencedirect.com/science/article/abs/pii/S0047272724001117)." *Journal of Public Economics*, 238, 105175.
 
@@ -51,7 +43,16 @@ Zhao, Xiaoxi (2012). "[Analysis of The Major Factors Affecting Macao's Economy](
 ### Reports
 Jodi L. Liu, Zachary M. Levinson, Annetta Zhou, Xiaoxi Zhao, PhuongGiang Nguyen, Nabeel Qureshi (2022). "[Environmental Scan on Consolidation Trends and Impacts in Health Care Markets](https://pmc.ncbi.nlm.nih.gov/articles/PMC10273895/)." *RAND Health Quarterly*
 
-[Global Hospital Management Survey - China, Management in Healthcare Report](https://www.hbs.edu/faculty/conferences/2014-world-management-survey/Documents/GlobalHospital_Management_Survey_Horak.pdf), 2015.
+[Global Hospital Management Survey - China, Management in Healthcare Report](https://www.hbs.edu/faculty/conferences/2014-world-management-survey/Documents/GlobalHospital_Management_Survey_Horak.pdf), 2015.## Working Papers
+
+
+ 
+“Efficiency in Organizational Structure? Assessing Heterogeneous Effects in Hospital-Physician Integration,”
+with Cheryl L. Damberg, Michael R. Richards, Christopher M. Whaley, September 2024. Revise and Resubmit, *Journal of Health Economics*
+ 
+"[The Effect of Medical Loss Ratio Regulation on Insurer Pricing](https://xiaoxizhao.github.io/files/JMP_XiaoxiZhao.pdf)," March, 2021. 
+
+
 
 
 
