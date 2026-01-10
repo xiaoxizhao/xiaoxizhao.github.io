@@ -44,10 +44,9 @@ Zhao, Xiaoxi (2012). "[Analysis of The Major Factors Affecting Macao's Economy](
 ### Reports
 Jodi L. Liu, Zachary M. Levinson, Annetta Zhou, Xiaoxi Zhao, PhuongGiang Nguyen, Nabeel Qureshi (2022). "[Environmental Scan on Consolidation Trends and Impacts in Health Care Markets](https://pmc.ncbi.nlm.nih.gov/articles/PMC10273895/)." *RAND Health Quarterly*
 
-[Global Hospital Management Survey - China, Management in Healthcare Report](https://www.hbs.edu/faculty/conferences/2014-world-management-survey/Documents/GlobalHospital_Management_Survey_Horak.pdf), 2015.## Working Papers
+[Global Hospital Management Survey - China, Management in Healthcare Report](https://www.hbs.edu/faculty/conferences/2014-world-management-survey/Documents/GlobalHospital_Management_Survey_Horak.pdf), 2015.
 
-
- 
+## Working Papers
 “Efficiency in Organizational Structure? Assessing Heterogeneous Effects in Hospital-Physician Integration,”
 with Cheryl L. Damberg, Michael R. Richards, Christopher M. Whaley, September 2024. Revise and Resubmit, *Journal of Health Economics*
  
