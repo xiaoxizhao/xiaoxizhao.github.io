@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Economics, Sociology, and Statistics\\
-RAND Corporation \\
+School of Public Health\\
+Brown University \\
 
-Email: christelle.zhao AT gmail.com
+Email: xiaoxi_zhao AT brown.edu
