@@ -11,7 +11,7 @@ author_profile: true
 ### Peer-reviewed papers
 \*Denotes authors listed in alphabetical order
 
-*Munnich, Elizabeth L., Michael R. Richards, Christopher M. Whaley, and Xiaoxi Zhao. "[Raising the Stakes - Physician Facility Investments and Provider Agency](http://xiaoxizhao.github.io/files/AER_forthcoming.pdf)."  *American Economic Review*, forthcoming.
+*Munnich, Elizabeth L., Michael R. Richards, Christopher M. Whaley, and Xiaoxi Zhao. (2026). "[Raising the Stakes - Physician Facility Investments and Provider Agency](http://xiaoxizhao.github.io/files/AER_forthcoming.pdf)."  *American Economic Review*, 116(2), 502-534.
 
 Kranz, Ashley M., Xiaoxi Zhao, Elizabeth Munnich, Jessica Y. Lee, and Christopher Whaley. (2025). "[Medicaid Payments and Outcomes for Pediatric Dental Surgical Procedures by Site of Care](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839928)." *JAMA Network Open*, 8(10), e2537081-e2537081.
 
