@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome to my website.
 
-Welcome to my website! 
+I am a Lead Research Scientist at the Brown University School of Public Health. My research lies at the intersection of health economics and industrial organization. I apply rigorous microeconomic theory and econometric methods to large-scale, multi-source datasets to study how market structure, ownership, and policy reforms shape provider behavior, healthcare spending, and patient welfare.
 
-I am an associate economist at RAND Corporation. I recieved my Ph.D. in Economics from Boston University.
+My work has been published in leading journals, including the *American Economic Review*, *American Economic Journal: Economic Policy*, the *Journal of Public Economics*, and *Health Affairs*.
 
-My fields of interest are health economics and industrial organization. I am particularly interested in public policies and vertical relationships in health insurance markets and health care provider markets. In my research, I employ both reduced-form and structural models to examine market participant behavior, exploring the mechanisms behind it, and expanding our understanding of policy questions.
+I received my Ph.D. in Economics from Boston University, an M.S. in Applied Mathematics from École Centrale de Lyon, and a B.S. in Information and Computational Science from Beihang University.
 
