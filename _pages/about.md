@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome to my website.
 
-I am a Lead Research Scientist at the Brown University School of Public Health. My research lies at the intersection of health economics and industrial organization. I apply rigorous microeconomic theory and econometric methods to large-scale, multi-source datasets to study how market structure, ownership, and policy reforms shape provider behavior, healthcare spending, and patient welfare.
+I am a Lead Research Scientist and Faculty Fellow at the Brown University School of Public Health. Working at the intersection of health economics and industrial organization, I study how ownership, vertical relationships, and public policy, including payment and insurance regulation, shape health insurance and health care provider markets. Drawing on large-scale, multi-source data and both reduced-form and structural methods, I examine how these forces affect insurer and provider decisions, and what those decisions mean for prices, health care spending, and patient welfare.
 
 My work has been published in leading journals, including the *American Economic Review*, *American Economic Journal: Economic Policy*, the *Journal of Public Economics*, and *Health Affairs*.
 
