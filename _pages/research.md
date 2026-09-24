@@ -11,7 +11,11 @@ author_profile: true
 ### Peer-reviewed papers
 \*Denotes authors listed in alphabetical order
 
-*Munnich, Elizabeth L., Michael R. Richards, Christopher M. Whaley, and Xiaoxi Zhao. (2026). "[Raising the Stakes - Physician Facility Investments and Provider Agency](http://xiaoxizhao.github.io/files/AER_forthcoming.pdf)."  *American Economic Review*, 116(2), 502-534.
+\*Munnich, Elizabeth L., Michael R. Richards, Christopher M. Whaley, and Xiaoxi Zhao. (2026). "[Raising the Stakes - Physician Facility Investments and Provider Agency](http://xiaoxizhao.github.io/files/AER_forthcoming.pdf)."  *American Economic Review*, 116(2), 502-534.
+
+Zhao, Xiaoxi, Nandita Radhakrishnan, Cheryl L. Damberg, Michael R. Richards, and Christopher M. Whaley. "[Insurers’ Acquisition Of Ambulatory Surgery Centers Was Not Associated With Changes In Performance, 2013–21](https://www.healthaffairs.org/doi/abs/10.1377/hlthaff.2025.01623?casa_token=Gdv9sYTp9XMAAAAA%3AA-aS04O-Tv175dLMVyTiMIU--Ge5sug3h_auM7ouAgPTbqRRjGS6TvTU66OEhwl3tPinpME3AaA)." Health Affairs 45, no. 9 (2026): 994-1001.
+
+Rancaño, Katherine M., Xiaoxi Zhao, Elizabeth Munnich, Christopher Whaley, Jessica Y. Lee, and Ashley M. Kranz. "[Dental Surgeries in Hospitals and Surgery Centers for Children With Developmental Disabilities](https://publications.aap.org/hospitalpediatrics/article/16/5/419/207199/Dental-Surgeries-in-Hospitals-and-Surgery-Centers)." Hospital Pediatrics 16, no. 5 (2026): 419-426.
 
 Kranz, Ashley M., Xiaoxi Zhao, Elizabeth Munnich, Jessica Y. Lee, and Christopher Whaley. (2025). "[Medicaid Payments and Outcomes for Pediatric Dental Surgical Procedures by Site of Care](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839928)." *JAMA Network Open*, 8(10), e2537081-e2537081.
 
